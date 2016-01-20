@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="a294f294-b1c0-4b45-a047-b8dfd934d74d" ChangeDateTime="12/10/2015 03:41:55">
+    <Property Name="ElementName" Value="[dbo].[Ships].[AttackValue]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Ships]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="AttackValues" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="e29aefc1-92f7-4585-a233-e85c18672404" ChangeDateTime="12/10/2015 03:51:52">
+    <Property Name="ElementName" Value="[dbo].[LeaderArchetypes].[Base]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[LeaderArchetypes]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="BaseIntelligence" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="04149795-6755-43b1-9d6a-c501661fbdfa" ChangeDateTime="12/10/2015 04:05:37">
+    <Property Name="ElementName" Value="[dbo].[Modules].[Hitpoints]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Modules]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="MaxHitpoints" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="ed8fe1d8-ffff-4f77-852f-cd57cec1f350" ChangeDateTime="12/10/2015 04:05:42">
+    <Property Name="ElementName" Value="[dbo].[Modules].[MaxHitpoints]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Modules]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Condition" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="26f84298-32f5-4b8b-b606-cb1159b0e4b4" ChangeDateTime="12/10/2015 04:06:51">
+    <Property Name="ElementName" Value="[dbo].[Modules].[Status]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Modules]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="FleetId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="245b2614-8e2d-4aa4-ba20-bd0772810ee3" ChangeDateTime="12/10/2015 04:07:11">
+    <Property Name="ElementName" Value="[dbo].[Modules].[FleetId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Modules]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="HangarId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="34ad69bd-3ea8-4f42-9254-b62550cea4ce" ChangeDateTime="12/10/2015 04:07:29">
+    <Property Name="ElementName" Value="[dbo].[Modules].[HangarId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Modules]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="AccountId" />
+  </Operation>
+</Operations>

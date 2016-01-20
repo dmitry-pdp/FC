@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[Skills]
+(
+	[Id] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY, 
+    [Name] NVARCHAR(250) NOT NULL, 
+    [Description] NVARCHAR(MAX) NOT NULL, 
+    [EffectCode] NVARCHAR(MAX) NOT NULL
+)

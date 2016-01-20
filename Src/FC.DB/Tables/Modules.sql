@@ -1,0 +1,11 @@
+﻿CREATE TABLE [dbo].[Modules]
+(
+	[Id] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY, 
+    [ModuleType] UNIQUEIDENTIFIER NOT NULL, 
+    [ShipId] UNIQUEIDENTIFIER NULL, 
+    [ShipSlotNumber] INT NOT NULL, 
+    [StationId] UNIQUEIDENTIFIER NULL, 
+    [Condition] INT NOT NULL, 
+    [AccountId] UNIQUEIDENTIFIER NULL, 
+    [State] INT NOT NULL
+)

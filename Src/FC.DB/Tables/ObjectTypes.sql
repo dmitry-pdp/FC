@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[ObjectTypes]
+(
+	[Id] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY, 
+    [Money] INT NULL
+)

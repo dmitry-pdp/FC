@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[LeaderArchetypeSkills]
+(
+	[Id] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY, 
+    [LeaderArchetypeId] UNIQUEIDENTIFIER NOT NULL, 
+    [SkillId] UNIQUEIDENTIFIER NOT NULL
+)

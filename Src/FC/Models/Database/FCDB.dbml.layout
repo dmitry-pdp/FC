@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 15, 14.875" name="FCDB">
+  <DataContextMoniker Name="/FCDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="598e4074-1f23-408a-a460-50ef07c76c4a" absoluteBounds="0.75, 0.75, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/FCDBDataContext/Account" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b630b232-e1cd-47c9-9560-a4d29fb5c35d" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0946be46-6845-43f7-b975-fe71c4395525" absoluteBounds="3.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/FCDBDataContext/Faction" />
+      <nestedChildShapes>
+        <elementListCompartment Id="42bd303a-b4da-465f-a17e-c32381723d82" absoluteBounds="3.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1151e98b-b86d-467c-b7cc-a330d69cd438" absoluteBounds="3.75, 2.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/FCDBDataContext/Fleet" />
+      <nestedChildShapes>
+        <elementListCompartment Id="469f9e34-6463-4912-b801-314404509289" absoluteBounds="3.765, 3.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="47c31c84-9a71-4125-8330-4c4b736ab3c0" absoluteBounds="0.75, 5.75, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/FCDBDataContext/LeaderArchetype" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fd2ae7d4-7a92-4c2b-9fc3-aa55d9aaa68b" absoluteBounds="0.765, 6.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8412bc8b-694d-4726-8078-ddbcd5197d95" absoluteBounds="3.75, 5.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/FCDBDataContext/LeaderArchetypeSkill" />
+      <nestedChildShapes>
+        <elementListCompartment Id="15de4c7b-4b47-4383-9806-0358980c9b6f" absoluteBounds="3.765, 6.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="daa7bdfb-c7e5-44e7-9fb4-f7f2e29ece18" absoluteBounds="6.75, 0.75, 2, 2.9247054036458326">
+      <DataClassMoniker Name="/FCDBDataContext/Leader" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5a54dbe7-030d-4082-a104-07c10b12b511" absoluteBounds="6.765, 1.21, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dfbafc45-1e55-4a4b-9109-ea0bfcfc02f8" absoluteBounds="6.75, 4.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/FCDBDataContext/LeaderSkill" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9fd5846c-643b-4934-a46a-a490656d45c4" absoluteBounds="6.765, 5.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="04005e32-438e-4776-ba4c-a9e99edb5b9a" absoluteBounds="6.75, 7.75, 2, 1.7708968098958335">
+      <DataClassMoniker Name="/FCDBDataContext/ModulePrototype" />
+      <nestedChildShapes>
+        <elementListCompartment Id="59bb0c14-6d05-4662-9afc-a98b38e48177" absoluteBounds="6.765, 8.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ecfe5f61-66a5-4b29-98e7-366e1a5f6eb9" absoluteBounds="0.75, 8.75, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/FCDBDataContext/Module" />
+      <nestedChildShapes>
+        <elementListCompartment Id="21f9daf9-c18a-4a55-ac28-f26c1780d1ec" absoluteBounds="0.765, 9.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6ffcc644-ff27-4164-a548-c7810f27ab9f" absoluteBounds="9.75, 0.75, 2, 1.0016910807291666">
+      <DataClassMoniker Name="/FCDBDataContext/Object" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f34f984d-3861-42cb-a8ff-8afcdb54d45d" absoluteBounds="9.765, 1.21, 1.9700000000000002, 0.44169108072916669" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="12a474ba-15c0-44d1-9bf4-8808d860e4e9" absoluteBounds="9.75, 2.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/FCDBDataContext/ObjectType" />
+      <nestedChildShapes>
+        <elementListCompartment Id="de083056-7a93-42ba-9723-8f944a969c79" absoluteBounds="9.765, 3.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d8519202-01c4-4c9f-9a3b-d29715464958" absoluteBounds="9.75, 4.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/FCDBDataContext/Planet" />
+      <nestedChildShapes>
+        <elementListCompartment Id="40012fba-a93d-4533-b591-132e57052b36" absoluteBounds="9.765, 5.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="64b06a09-0ab3-4b0a-851d-027cae9b1405" absoluteBounds="9.75, 6.75, 2, 3.1170068359375014">
+      <DataClassMoniker Name="/FCDBDataContext/ShipPrototype" />
+      <nestedChildShapes>
+        <elementListCompartment Id="128de1a8-4d09-4bfb-b020-f8050c808889" absoluteBounds="9.765, 7.21, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4adc77d5-821f-44fc-b781-734966dc2af9" absoluteBounds="3.75, 10.75, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/FCDBDataContext/Ship" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4f02fdde-1bb1-45d8-b2b5-fe2c6c5db277" absoluteBounds="3.765, 11.21, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1438ea81-51e6-4aa2-b8fb-ca6eb62d1e79" absoluteBounds="6.75, 10.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/FCDBDataContext/Skill" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7b20d7f2-b448-42bf-9f98-adbfd314b011" absoluteBounds="6.765, 11.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2b91a996-3a3d-4dd9-93b7-f827cb85a17a" absoluteBounds="9.75, 10.75, 2, 1.0016910807291666">
+      <DataClassMoniker Name="/FCDBDataContext/Starbase" />
+      <nestedChildShapes>
+        <elementListCompartment Id="621362ef-0083-4599-938c-2e804d778299" absoluteBounds="9.765, 11.21, 1.9700000000000002, 0.44169108072916669" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="67e0d37c-84fb-4584-97bf-d76054b09f40" absoluteBounds="12.75, 0.75, 2, 1.9631982421875003">
+      <DataClassMoniker Name="/FCDBDataContext/Star" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8f2f26b1-f2d8-44f9-ae44-d2e6686130f0" absoluteBounds="12.765, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1571f74d-2f70-4d17-bffa-d5b8d06e67ef" absoluteBounds="12.75, 3.75, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/FCDBDataContext/StarSystemArea" />
+      <nestedChildShapes>
+        <elementListCompartment Id="41f85f34-fbe2-40b3-865f-7ec01a85c215" absoluteBounds="12.765, 4.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="12f2fb4b-9dec-4ca5-8bc4-d9645951390d" absoluteBounds="0.75, 3.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/FCDBDataContext/Character" />
+      <nestedChildShapes>
+        <elementListCompartment Id="81b50d44-0326-4c34-bfd4-4e5631922ebc" absoluteBounds="0.76499999999999968, 4.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.75 : 3.2901025390625); (1.75 : 3.75)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/FCDBDataContext/Account/Account_Character" />
+      <nodes>
+        <classShapeMoniker Id="598e4074-1f23-408a-a460-50ef07c76c4a" />
+        <classShapeMoniker Id="12f2fb4b-9dec-4ca5-8bc4-d9645951390d" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
